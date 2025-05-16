@@ -1,4 +1,4 @@
-### Pipe-Organ
+### Pipe Organ
 
 CAD designs locaded on [Onshape](https://cad.onshape.com/documents?column=modifiedAt&nodeId=374b1dde1f7be4c201c8020f&resourceType=folder&sortOrder=desc)
 
